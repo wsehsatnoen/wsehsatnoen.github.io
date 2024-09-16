@@ -5,14 +5,22 @@ body {
     background-repeat: no-repeat;
 }
 
-.header {
+header {
+    margin: auto;
+    position: relative;
+    width: 75%;
+    top: 150px;
+    background-color: #b3b382;
     display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .nav {
     list-style-type: none;
     display: flex;
     justify-content: center;
+    padding: 0;
 }
 
 .nav li {
