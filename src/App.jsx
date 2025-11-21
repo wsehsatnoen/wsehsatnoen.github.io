@@ -62,8 +62,7 @@ function HomePage() {
   return (
     <div>
       <h2>Shane Darilek</h2>
-      <p>Hello!! Welcome, take your coat off and stay a while :)</p>
-      <p>Enjoy the view and feel free to explore.</p>
+      <p>Please note: this is still a work in progress... Thank you for your patience!</p>
     </div>
   );
 }
